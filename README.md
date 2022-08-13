@@ -3,4 +3,5 @@ Landing Page for Interior Design Company
 Created using HTML, CSS with Flexbox
 Desktop View only
 
-![Interior Design](https://ibb.co/S7m8txJ)
+![Interior Design](https://i.ibb.co/G3MLWJF/9.jpg)
+
